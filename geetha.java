@@ -2,6 +2,6 @@ public class geetha
 {
 public static void main(String args[])
 {
-System.out.println("heellloo geetha");
+System.out.println("hello geetha");
 }
 }
